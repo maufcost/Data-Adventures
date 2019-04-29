@@ -1,11 +1,8 @@
-Data Adventures – Week 1
+# Data Adventures – Week 1
 
-In this series, Data Adventures, I will highlight what I have learnt in the fascinating fields of machine learning, 
-data science, computer vision, and other programming concepts for the past week in outside-of-the-classroom projects 
-I have been conducting. 
+### In this series, Data Adventures, I will highlight what I have learnt in the fascinating fields of machine learning, data science, computer vision, and other programming concepts for the past week in outside-of-the-classroom projects I have been conducting. 
 
-This is one of the ways that I can use to keep track of my progress and raise self-awareness of the areas I need to 
-improve and invest more time in.
+### This is one of the ways that I can use to keep track of my progress and raise self-awareness of the areas I need to improve and invest more time in.
 
 Let’s begin!
 
@@ -16,18 +13,18 @@ time ranges during the days, I found out that I could merge my interests in data
 business statistics with publicly available datasets.
 
 Projects:
-•	Analyzed a store’s Black Friday sales.\n
-•	Analyzed revenues, most sold items, and busiest times of the day at the Bread Basket Bakery.\n
+* Analyzed a store’s Black Friday sales.
+* Analyzed revenues, most sold items, and busiest times of the day at the Bread Basket Bakery.
 
 The second half of the last week was amazing! I could “dive deep” in deep learning by sharpening my knowledge of normal 
 feed-forward and convolutional neural networks (I am enthralled by it!) for image recognition.
 
 Projects:
-•	Trained a model that can identify items of clothing with the MNIST dataset.\n
-•	Trained a model that can identify handwritten letters with the MNIST dataset.\n
-•	Developed a model that can deal with more complex images that managed to distinguish between human beings and horses.\n
-•	I could finally write, from scratch, algorithms that perform 2D convolutions and pooling.\n
-•	Learned about callbacks, image data generators, epoch steps, and data augmentattion to avoid overfitting and improve 
+* Trained a model that can identify items of clothing with the MNIST dataset.
+* Trained a model that can identify handwritten letters with the MNIST dataset.
+* Developed a model that can deal with more complex images that managed to distinguish between human beings and horses.
+* I could finally write, from scratch, algorithms that perform 2D convolutions and pooling.
+* Learned about callbacks, image data generators, epoch steps, and data augmentattion to avoid overfitting and improve 
 model accuracy.
 
 You can find all my work files here: https://github.com/maufcost/Data-Adventures
